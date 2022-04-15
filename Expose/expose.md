@@ -15,7 +15,7 @@ import: https://github.com/liascript/CodeRunner
 # Mit LiaScript anzeigen!
 
 Hier klicken, um die Präsentation mit LiaScript anzuschauen:
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/Florian2501/Vortrag-Code-Snippet/blob/master/CodeSnippetPresentation.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/Florian2501/VortraegeRobotikSoSe22/blob/main/Expose/expose.md)
 
 # Team Kamera
 
